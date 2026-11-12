@@ -194,6 +194,8 @@ Example relationship:
 ```text
 sales.customer_id -> customers.customer_id
 ```
+## Output UI-
+<img width="936" height="501" alt="image" src="https://github.com/user-attachments/assets/1886040a-5bb1-4854-81ea-eed00f947d99" />
 
 ## Author
 ### Ratnesh Srivastava
