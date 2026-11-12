@@ -6,3 +6,5 @@ sqlglot
 pandas
 groq
 sqlglot
+streamlit
+pandas
