@@ -198,12 +198,5 @@ sales.customer_id -> customers.customer_id
 ## Author
 ### Ratnesh Srivastava
 
-Data Engineering professional focused on: \n
-Data Engineering \n
-Cloud Data Platforms \n
-Data Warehousing \n
-Python \n
-SQL \n
-Generative AI \n
-AI-powered Data Engineering solutions \n
+Data Engineering | Cloud Data Platforms | Python | SQL | Generative AI | AI-powered Data Engineering solutions
 https://www.linkedin.com/in/ratnesh-srivastava-702b61a8/
